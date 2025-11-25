@@ -55,7 +55,7 @@ Otherwise, print "NO".
 ```
 /*
 
-Developed by :Thirunavukkarasu p
+Developed by :Thirunavukkarasu P
 Register Number:  212222040173
 */
 import java.util.*;
