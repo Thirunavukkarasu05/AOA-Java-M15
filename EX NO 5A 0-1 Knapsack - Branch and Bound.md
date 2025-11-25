@@ -71,7 +71,7 @@ For example:
 /*
 Program to implement Reverse a String
 Developed by: Thirunavukkarasu p
-Register Number:  212222040147
+Register Number:  212222040173
 */
 import java.util.*;
 
